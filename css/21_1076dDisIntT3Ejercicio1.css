@@ -1,0 +1,15 @@
+.titulo{
+	color: rgb(197, 0, 0);
+}
+
+.container{
+	background-color: rgb(194, 255, 194);
+}
+
+.container-fluid{
+	background-color: lightgreen;
+}
+
+.jumbotron{
+	background-color: rgb(64, 233, 64);
+}
